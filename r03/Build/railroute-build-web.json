@@ -1,0 +1,13 @@
+{
+"companyName": "Bitrich.info",
+"productName": "Railroute",
+"dataUrl": "railroute-build-web.data.unityweb",
+"asmCodeUrl": "railroute-build-web.asm.code.unityweb",
+"asmMemoryUrl": "railroute-build-web.asm.memory.unityweb",
+"asmFrameworkUrl": "railroute-build-web.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
